@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_13">
+    <output url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../DesignPatterns/Flyweight">
+      <sourceFolder url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../DesignPatterns/Flyweight/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
