@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public enum InsectType {
+    Ant, Locust, Cockroach;
 }
